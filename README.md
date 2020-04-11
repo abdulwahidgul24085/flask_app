@@ -12,6 +12,8 @@ This repo is my straggle and chance to give back to the wonderful community. I a
 
 I know flask can do all of this and a lot of online resource can help you achive this. But based on my experince. Most of the time, I have to visit different site to get the most basic functionality that flask provides. I am going to create a jump off point for the above mention project. I will try to add as many comment in the code so that you can just read about them in the code, with out going online or access cheetsheet. My problem can better understood by the following qoute
 > are you in a hurry, or are in a haste.
+
+
 The idea is that most of the time we forget the basic stuff that needs to make the application accessable for secure, since we just want to run the product or launch the idea.
 
 You own research is highly appreciated, and also read up on flask. 
