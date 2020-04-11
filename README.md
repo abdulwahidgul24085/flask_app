@@ -17,3 +17,6 @@ I know flask can do all of this and a lot of online resource can help you achive
 The idea is that most of the time we forget the basic stuff that needs to make the application accessable for secure, since we just want to run the product or launch the idea.
 
 You own research is highly appreciated, and also read up on flask. 
+
+# Virtual Environment
+In my opiton the base way to work with flask on your local machine is to use virutalenv. The reason is due to the fatch the conda or miniconda addeds additiaonal libaries when you create an environment with them. virtualenv does not add anything. To install [virtualenv](https://pypi.org/project/virtualenv/1.7.1.2/)
